@@ -1,6 +1,6 @@
 # Journeyfront
 
-<img align="right" src="https://www.journeyfront.com/hubfs/Homepage%20Hero_v2.2.svg" width="450">
+<img align="right" src="https://www.journeyfront.com/hubfs/Homepage%20Hero_v2.2.svg" width="350">
 
 ## The World's Most Accurate Hiring Software
 
